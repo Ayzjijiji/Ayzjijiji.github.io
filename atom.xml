@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>朕超萌</title>
+  
+  <subtitle>及时行乐</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://Ayzjijiji.github.com/"/>
+  <updated>2019-03-25T10:08:52.969Z</updated>
+  <id>http://Ayzjijiji.github.com/</id>
+  
+  <author>
+    <name>kawayi_ji</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wow hello world kkkk</title>
+    <link href="http://Ayzjijiji.github.com/2019/03/25/wow%20hello%20world/"/>
+    <id>http://Ayzjijiji.github.com/2019/03/25/wow hello world/</id>
+    <published>2019-03-25T09:57:03.000Z</published>
+    <updated>2019-03-25T10:08:52.969Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;sajdjdjf&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
