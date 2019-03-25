@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Ayzjijiji.github.com/"/>
-  <updated>2019-03-25T10:28:00.633Z</updated>
+  <updated>2019-03-25T12:54:36.042Z</updated>
   <id>http://Ayzjijiji.github.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://Ayzjijiji.github.com/2019/03/25/why/"/>
+    <id>http://Ayzjijiji.github.com/2019/03/25/why/</id>
+    <published>2019-03-25T12:47:36.501Z</published>
+    <updated>2019-03-25T12:54:36.042Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
