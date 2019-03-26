@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Ayzjijiji.github.com/"/>
-  <updated>2019-03-25T12:54:36.042Z</updated>
+  <updated>2019-03-26T03:12:57.243Z</updated>
   <id>http://Ayzjijiji.github.com/</id>
   
   <author>
@@ -17,21 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://Ayzjijiji.github.com/2019/03/25/why/"/>
-    <id>http://Ayzjijiji.github.com/2019/03/25/why/</id>
-    <published>2019-03-25T12:47:36.501Z</published>
-    <updated>2019-03-25T12:54:36.042Z</updated>
+    <title>那么，请不要大意的开始吧！</title>
+    <link href="http://Ayzjijiji.github.com/2019/03/25/test/"/>
+    <id>http://Ayzjijiji.github.com/2019/03/25/test/</id>
+    <published>2019-03-25T14:23:28.000Z</published>
+    <updated>2019-03-26T03:12:57.243Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a
-        
-      
+      &lt;p&gt;（又名：一只菜鸡的自白）&lt;/p&gt;
+&lt;p&gt;本人：暂时还是一只菜鸡，开个博记录一下自己的学习过程。&lt;/p&gt;
+&lt;p&gt;具体可能涉及到：算法题（大概是用Python写）、ML理论知识、数据分析相关的东西…&lt;/p&gt;
+&lt;p&gt;还可能会有产品相关的内容。&lt;/p&gt;
+&lt;p&gt;Kk可能也会写写日常之类的&lt;/p&gt;
+&lt;p&gt;那么从今天开始就请多指教啦~&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;print(&lt;span class=&quot;string&quot;&gt;&quot;hello world&quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
@@ -39,11 +39,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>该怎么解决看不到正文的问题</title>
     <link href="http://Ayzjijiji.github.com/2019/03/25/hello-world/"/>
     <id>http://Ayzjijiji.github.com/2019/03/25/hello-world/</id>
-    <published>2019-03-25T06:36:38.303Z</published>
-    <updated>2019-03-25T10:28:00.633Z</updated>
+    <published>2019-03-25T12:20:20.000Z</published>
+    <updated>2019-03-25T14:35:21.162Z</updated>
     
     <summary type="html">
     
@@ -51,12 +51,15 @@
       
         
         
-          &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a
+          &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;123&lt;br&gt;哇&lt;/p&gt;
+&lt;h2 id=&quot;让我们开始吧&quot;&gt;&lt;a
         
       
     
     </summary>
     
+    
+      <category term="虾扯kk" scheme="http://Ayzjijiji.github.com/tags/%E8%99%BE%E6%89%AFkk/"/>
     
   </entry>
   
