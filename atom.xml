@@ -5,9 +5,9 @@
   <subtitle>及时行乐</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://Ayzjijiji.github.com/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2019-03-26T03:12:57.243Z</updated>
-  <id>http://Ayzjijiji.github.com/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>kawayi_ji</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>那么，请不要大意的开始吧！</title>
-    <link href="http://Ayzjijiji.github.com/2019/03/25/test/"/>
-    <id>http://Ayzjijiji.github.com/2019/03/25/test/</id>
+    <link href="http://yoursite.com/post/undefined.html"/>
+    <id>http://yoursite.com/post/undefined.html</id>
     <published>2019-03-25T14:23:28.000Z</published>
     <updated>2019-03-26T03:12:57.243Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>该怎么解决看不到正文的问题</title>
-    <link href="http://Ayzjijiji.github.com/2019/03/25/hello-world/"/>
-    <id>http://Ayzjijiji.github.com/2019/03/25/hello-world/</id>
+    <link href="http://yoursite.com/post/undefined.html"/>
+    <id>http://yoursite.com/post/undefined.html</id>
     <published>2019-03-25T12:20:20.000Z</published>
     <updated>2019-03-25T14:35:21.162Z</updated>
     
@@ -59,7 +59,7 @@
     </summary>
     
     
-      <category term="虾扯kk" scheme="http://Ayzjijiji.github.com/tags/%E8%99%BE%E6%89%AFkk/"/>
+      <category term="虾扯kk" scheme="http://yoursite.com/tags/%E8%99%BE%E6%89%AFkk/"/>
     
   </entry>
   
