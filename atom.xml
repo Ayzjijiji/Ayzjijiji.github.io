@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-26T03:12:57.243Z</updated>
+  <updated>2019-03-27T06:43:38.679Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,21 @@
     <link href="http://yoursite.com/post/undefined.html"/>
     <id>http://yoursite.com/post/undefined.html</id>
     <published>2019-03-25T14:23:28.000Z</published>
-    <updated>2019-03-26T03:12:57.243Z</updated>
+    <updated>2019-03-27T06:43:38.679Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;（又名：一只菜鸡的自白）&lt;/p&gt;
+      
+      
+        
+        
+          &lt;p&gt;（又名：一只菜鸡的自白）&lt;/p&gt;
 &lt;p&gt;本人：暂时还是一只菜鸡，开个博记录一下自己的学习过程。&lt;/p&gt;
 &lt;p&gt;具体可能涉及到：算法题（大概是用Python写）、ML理论知识、数据分析相关的东西…&lt;/p&gt;
 &lt;p&gt;还可能会有产品相关的内容。&lt;/p&gt;
-&lt;p&gt;Kk可能也会写写日常之类的&lt;/p&gt;
-&lt;p&gt;那么从今天开始就请多指教啦~&lt;/p&gt;
-&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;print(&lt;span class=&quot;string&quot;&gt;&quot;hello world&quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Kk可能也会写写日常之
+        
+      
     
     </summary>
     
