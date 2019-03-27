@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[ayz]]></title>
+    <url>%2F2019%2F0327%2Fayz.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[那么，请不要大意的开始吧！]]></title>
     <url>%2F2019%2F0325%2Fthen-please-dont-start-with-it.html</url>
     <content type="text"><![CDATA[（又名：一只菜鸡的自白） 本人：暂时还是一只菜鸡，开个博记录一下自己的学习过程。 具体可能涉及到：算法题（大概是用Python写）、ML理论知识、数据分析相关的东西… 还可能会有产品相关的内容。 Kk可能也会写写日常之类的 那么从今天开始就请多指教啦~ 1print("hello world")]]></content>
