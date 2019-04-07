@@ -11,9 +11,12 @@
     <content type="text"></content>
   </entry>
   <entry>
-    <title><![CDATA[该怎么解决看不到正文的问题]]></title>
-    <url>%2F2019%2F0325%2Fhow-to-solve-the-problem-of-not-seeing-text.html</url>
-    <content type="text"><![CDATA[Quick Start123哇 让我们开始吧end]]></content>
+    <title><![CDATA[解决看不到正文的问题]]></title>
+    <url>%2F2019%2F0325%2Fsolve-the-problem-of-not-seeing-text.html</url>
+    <content type="text"><![CDATA[Q发布后点开阅读全文看不到全文，只能看到目录 A不要乱改主题的源码…(:ᗤ」ㄥ)]]></content>
+      <categories>
+        <category>No.1奇肯</category>
+      </categories>
       <tags>
         <tag>虾扯kk</tag>
       </tags>
